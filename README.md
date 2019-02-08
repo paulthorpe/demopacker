@@ -1,4 +1,4 @@
-# demopacker
+# Demo packer
 Demo Packer / Vagrant build
 
 Run the Packer command 
